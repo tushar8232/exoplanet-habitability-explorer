@@ -1,0 +1,10 @@
+Metric,Value
+Total Planets,5816.0
+Positive Examples,28.0
+True Positives,9.0
+False Positives,15.0
+False Negatives,19.0
+Precision,0.38
+Recall,0.32
+F1 Score,0.35
+Balanced Accuracy,0.6594
