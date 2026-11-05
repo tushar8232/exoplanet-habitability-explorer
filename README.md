@@ -1,3 +1,4 @@
+
 # 🌍 Exoplanet Habitability Explorer
 
 An interactive Python-based project for exploring exoplanets, estimating their habitable zones, screening potentially interesting planetary candidates, and visualizing results through a Streamlit dashboard.
@@ -266,3 +267,5 @@ The results of this project must be interpreted carefully.
 ---
 
 **Disclaimer:** This project is an educational and exploratory data-science application. Its classifications are screening estimates and should not be interpreted as confirmation of planetary habitability or evidence of extraterrestrial life.
+
+
