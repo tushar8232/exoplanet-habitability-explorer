@@ -153,7 +153,7 @@ git clone https://github.com/YOUR_USERNAME/exoplanet-habitability-explorer.git
 cd exoplanet-habitability-explorer
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace `tushar8232` with your GitHub username.
 
 ### 2. Install dependencies
 
